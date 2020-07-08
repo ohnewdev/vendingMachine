@@ -1,8 +1,3 @@
-# Vending machine with python class.
-# Ref : 
-#  1) 오션코딩학원 : https://oceancoding.blogspot.com/2019/05/blog-post_66.html
-# adding func : counting the nuber of each product 
-
 class Vending:
     def __init__(self):
         self.p = {'콜라':500, '사이다':400, '환타': 600, '삼다수': 200, '탄산수': 150 }
